@@ -1,0 +1,8 @@
+"Item","Quantity","Designator","Comment","MANUFACTURER","Footprint","Info","Field4","LCSC","Name","Version"
+"1","1","C1","47u","Device:C_Polarized","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","https://www.mouser.fr/ProductDetail/710-860020472006","","",""
+"2","3","C2, C3, C4","10u","Device:C","Capacitor_SMD:C_1206_3216Metric","https://www.mouser.fr/ProductDetail/TDK/C3216X5R1C106M160AA","","","16V"
+"3","2","H1, H3","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_DIN965_Pad","~","","",""
+"4","2","J1, J2","Conn_01x08_Female","Connector:Conn_01x08_Female","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","~","","",""
+"5","2","J13, J14","691411410004","Connector:Conn_01x04_Female","Wurth:WR-TBL-7.62mm-4P_691411410004","~","Power","",""
+"9","1","R1","470","Device:R","Resistor_SMD:R_0603_1608Metric","~","","",""
+"12","1","U3","L78M05CDT-TR","Regulator_Linear:L7805","Package_TO_SOT_SMD:TO-252-2","http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf","","C55509",""
